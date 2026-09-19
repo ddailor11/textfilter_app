@@ -473,4 +473,3 @@ else:
     st.info(
         "⬆️ Upload a CSV file to begin."
     )
-```
